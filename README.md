@@ -15,6 +15,8 @@ Install requirements:
       pip install -r requirements.txt
 
 Run the script:
+
+
 Windows:        
       
       python avl.py
